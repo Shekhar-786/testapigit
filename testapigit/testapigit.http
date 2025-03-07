@@ -1,0 +1,6 @@
+@testapigit_HostAddress = http://localhost:5137
+
+GET {{testapigit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
